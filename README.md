@@ -4,7 +4,7 @@ Personal portfolio website for **Kehinde Aanuoluwapo Blessing**, a Software Deve
 and Cybersecurity Researcher based in Nigeria.
 
 ## 🔗 Live Site
-👉 [kenny-tj.github.io](https://kenny-tj.github.io)
+👉 [kenny-mercy.github.io](https://kenny-mercy.github.io)
 
 ## 🛠️ Built With
 - HTML5 · CSS3 · Vanilla JavaScript
@@ -26,5 +26,5 @@ and Cybersecurity Researcher based in Nigeria.
 
 ## 📬 Contact
 - Email: kennymercy000@gmail.com
-- GitHub: [@Kenny-TJ](https://github.com/Kenny-TJ)
+- GitHub: [@Kenny-TJ](https://github.com/kenny-mercy)
 - LinkedIn: [aanuoluwapo-blessing](https://www.linkedin.com/in/aanuoluwapo-blessing-60849820b/)
